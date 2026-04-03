@@ -1,0 +1,8 @@
+# /c:/Users/Krishna/OneDrive/Desktop/3 april/jayachandran/praveen.txt
+# simple script to print your message
+
+def main():
+    print("hi all . i'm from dharmapuri")
+
+if __name__ == "__main__":
+    main()
